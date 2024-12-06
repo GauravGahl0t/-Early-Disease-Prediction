@@ -21,7 +21,7 @@ import http.client
 import requests
 import base64
 import io
-import cv2
+# import cv2
 # Load the lung cancer prediction model
 lung_cancer_model = joblib.load('models/lung_cancer_model.sav')
 
