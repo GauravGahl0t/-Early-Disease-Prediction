@@ -59,3 +59,4 @@ watchdog==3.0.0
 xgboost==2.0.2
 zipp==3.17.0
 opencv-python==4.10.0.84
+tensorflow==2.18.0
