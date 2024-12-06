@@ -1,6 +1,6 @@
-# -Early-Disease-Prediction
+# Early-Disease-Prediction
 
-###Link for WebApp - https://early-disease-prediction.streamlit.app
+### Link for WebApp - https://early-disease-prediction.streamlit.app
 
 ### Project Members
 1. Akshaj Gupta
