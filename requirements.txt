@@ -69,4 +69,7 @@ validators==0.22.0
 watchdog==3.0.0
 xgboost==2.0.2
 zipp==3.17.0
+setuptools==68.0.0
+wheel==0.41.2
+
 
