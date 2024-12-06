@@ -41,7 +41,7 @@ with st.sidebar:
 # Adding text to the sidebar
     st.sidebar.title("Welcome to the Disease Prediction Project")
 
-    st.sidebar.write("-The project predicts what disease the patient might be suffering and how likely the are to have that disease. \n \n \n   -The user does not need to traverse different places in order to predict whether he/she has a particular disease or not.")
+    st.sidebar.write("-The project predicts what disease the patient might be suffering and how likely they are to have that disease. \n \n \n   -The user does not need to traverse different places in order to predict whether he/she has a particular disease or not.")
     st.sidebar.title("")
     st.sidebar.title("")
     st.sidebar.title("")
