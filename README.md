@@ -2,11 +2,6 @@
 
 ### Link for WebApp - https://early-disease-prediction.streamlit.app
 
-### Project Members
-1. Akshaj Gupta
-2. Gaurav Gahlot
-3. Vikash Kumar
-
 ### Deployment Steps
 Please follow the below steps to run this project.
 <br>
