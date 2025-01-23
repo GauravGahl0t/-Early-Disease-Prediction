@@ -52,12 +52,8 @@ with st.sidebar:
 
 
 
-
-    st.sidebar.markdown("###   Akshaj Gupta")
     st.sidebar.markdown("###   Gaurav Gahlot")
-    st.sidebar.markdown("###   Vikash Kumar")
-
-
+    
 
 
 # multiple disease prediction
